@@ -23,9 +23,7 @@ I love creating projects that solve real-world problems and continuously learnin
 ## Projects
 
 Here are some of my recent projects:
-
-- [Safe Zone] Mxm imagine two people who already vibe this hard… both open-minded, both craving real connection, both knowing how to please — mara not making each other lose our minds? 🫣 Yoh, that would be a waste of good energy, ne? 🤭🔥Mxm imagine two people who already vibe this hard… both open-minded, both craving real connection, both knowing how to please — mara not making each other lose our minds? 🫣 Yoh, that would be a waste of good energy, ne? 🤭🔥- A community safety alert app for South African townships 
-Feel free to explore my repositories and connect with me!
+- [Safe Zone]- A community safety alert app for South African townships 
 
 ---
 
